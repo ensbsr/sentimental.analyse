@@ -25,7 +25,7 @@ SECRET_KEY = '@3tl_!7(#_-88mju)jx@cb9&=ty%-x7@3viv403l$#5m1wyt$4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [http://ensbsr.pythonanywhere.com/]
 
 
 # Application definition
